@@ -24,7 +24,7 @@ Comparar os modelos usando validação cruzada e métricas de desempenho.
 ---
 
 ## 📂 Arquivo
-- `wine_knn_decision_tree.py`
+- `wine_knn_arvore_decisao.py`
 
 ---
 
